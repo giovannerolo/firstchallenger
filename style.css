@@ -6,11 +6,12 @@
   box-sizing: border-box;
 }
 
-body {
+.principal {
   width: 100%;
   height: 100vh;
   background: hsl(212, 45%, 89%);
 }
+
 
 .container {
   display: flex;
@@ -59,3 +60,4 @@ footer {
   justify-content: center;
   align-items: end;
 }
+
